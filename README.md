@@ -10,7 +10,7 @@ Paper explaining results also attached : <br/>
 - Gain insights into underlying stock movements aside from summary statistics (understand stocks probabilistically)
 - Analyize and adjust different distributions to find most accurate model by counting method without forcing fit
 
-### Notable Aspects
+## Notable Aspects
 - Created Generalized model that supported N-state Markov model for supporting and finding best representation
 - Followed previous dynamics by utilizing counting methods scalable by standard deviation as metric for scaling
 - Employed Random Sum distribution of Guassian and Poission selection methods to make heavy tailed distributions truer to reality
