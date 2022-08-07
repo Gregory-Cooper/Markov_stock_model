@@ -1,7 +1,7 @@
-# Markov_stock_model
-Created by Greg Cooper and Matthew Zilligan for presentation in stocastic modeling course. /n
-Attached Code is general model : 
-Paper explaining results also attached : 
+# Markov stock model
+Created by Greg Cooper and Matthew Zilligan for presentation in stocastic modeling course. <br/>
+Attached Code is general model : <br/>
+Paper explaining results also attached : <br/>
 
 
 ## Goals / Focus
