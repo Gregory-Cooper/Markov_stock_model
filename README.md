@@ -1,6 +1,6 @@
 # Markov stock model
 Created by Greg Cooper and Matthew Zilligan for presentation in stocastic modeling course. <br/>
-Attached Code is general model : <br/>
+Attached Code is general model :Stock_model.ipynb <br/>
 Paper explaining results also attached : Stochastic Modeling Write up.pdf <br/>
 
 
